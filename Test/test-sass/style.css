@@ -1,0 +1,10 @@
+body {
+  background-color: black; }
+  body p {
+    color: yellow; }
+
+h1 {
+  color: blue; }
+
+nav li a {
+  color: red; }
