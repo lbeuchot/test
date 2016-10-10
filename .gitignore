@@ -1,2 +1,5 @@
 wp-config.php
 .DS_Store
+_test/.sass-cache/
+config.codekit
+_test/style.css

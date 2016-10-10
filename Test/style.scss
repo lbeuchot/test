@@ -1,0 +1,14 @@
+@import 'settings';
+
+body {
+  background: orange;
+  color: white;
+}
+
+a {
+  color: $red;
+}
+
+li:last-child a {
+  color: blue;
+}

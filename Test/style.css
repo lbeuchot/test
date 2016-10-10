@@ -1,0 +1,9 @@
+body {
+  background: orange;
+  color: white; }
+
+a {
+  color: #F00; }
+
+li:last-child a {
+  color: blue; }
